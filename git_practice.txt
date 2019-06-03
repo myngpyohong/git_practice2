@@ -2,3 +2,4 @@ merge test
 Git_practice
 merge test2
 push test
+pull test
